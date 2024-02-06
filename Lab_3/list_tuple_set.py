@@ -1,3 +1,10 @@
+#1. Create a list of numbers and perform various operations such as adding elements,
+#removing elements, and accessing elements by index.
+#2. Create a tuple to represent an immutable collection and try accessing elements and
+#performing basic operations.
+#3. Create a set to store unique elements and perform set operations such as union,
+#intersection, and difference.
+
 #list operations
 list = [1,2,3,4,5]
 list.append(6)
