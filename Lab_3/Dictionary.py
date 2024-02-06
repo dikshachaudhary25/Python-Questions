@@ -1,3 +1,6 @@
+#Create a dictionary to represent key-value pairs and perform operations like adding,
+#updating, and accessing values.
+
 mydict = {
     "name":"DIKSHA",
     "age":"21",
